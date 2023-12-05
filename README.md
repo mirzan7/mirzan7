@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzan7&label=Profile%20views&color=0e75b6&style=flat" alt="Rinzan-NP" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzan7&theme=nord" alt="mirzan7" /></a> </p>
 
-- 🔭 I’m currently working on [Improving python skill](https://github.com/mirzan7/100daysofpython)
+- 🔭 I’m currently working on [Improving Python skill](https://github.com/mirzan7/100daysofpython)
+- currently working on Spotify clone
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **C++,Python**
 - 📫 How to reach me **npmirzanmiraj5@gmail.com**
